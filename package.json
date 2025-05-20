@@ -1,0 +1,22 @@
+{
+  "name": "serveez",
+  "version": "1.0.0",
+  "description": "Serveez Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NandakumarRahul/Serveez.git"
+  },
+  "keywords": [
+    "Serveez-Backend"
+  ],
+  "author": "Rahul Nandan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NandakumarRahul/Serveez/issues"
+  },
+  "homepage": "https://github.com/NandakumarRahul/Serveez#readme"
+}
