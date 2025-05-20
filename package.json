@@ -2,9 +2,10 @@
   "name": "serveez",
   "version": "1.0.0",
   "description": "Serveez Backend",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/NandakumarRahul/Serveez/issues"
   },
-  "homepage": "https://github.com/NandakumarRahul/Serveez#readme"
+  "homepage": "https://github.com/NandakumarRahul/Serveez#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
