@@ -7,19 +7,11 @@
   "scripts": {
     "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NandakumarRahul/Serveez.git"
-  },
   "keywords": [
     "Serveez-Backend"
   ],
   "author": "Rahul Nandan",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/NandakumarRahul/Serveez/issues"
-  },
-  "homepage": "https://github.com/NandakumarRahul/Serveez#readme",
   "devDependencies": {
     "nodemon": "^3.1.10",
     "prettier": "^3.5.3"

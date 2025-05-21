@@ -1,1 +1,1 @@
-export const DB_NAME = "ServeezDatabase"
+export const DB_NAME = 'serveezdb'
